@@ -1,1 +1,5 @@
-asdasgfdsgsd fsdfasdfas
+git add . 
+git commit -m 'test'
+git push
+
+git pull
