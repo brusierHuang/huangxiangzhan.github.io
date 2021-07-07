@@ -1,1 +1,7 @@
-asdasgfdsgsd fsdfasdfas
+--创建分支
+git branch xx
+--解决冲突
+--用本地代码覆盖远程
+git stash
+git pull
+git stash pop
